@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WYFSDWe2K2j3zJlOhn6tmzn2HY1bAQiQnXYEclxhsJpUXLnL1uGif38zyVFqc0Ut6SeMXpfF7xB8zYz/+9O7uA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Semen\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Semen\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Semen\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\Semen\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512",
+    "C:\\Users\\Semen\\.nuget\\packages\\system.serviceprocess.servicecontroller\\7.0.1\\system.serviceprocess.servicecontroller.7.0.1.nupkg.sha512",
+    "C:\\Users\\Semen\\.nuget\\packages\\wuapilib.utility\\1.0.0.1\\wuapilib.utility.1.0.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
